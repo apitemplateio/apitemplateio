@@ -1,4 +1,4 @@
-[APITemplate.io](https://apitemplate.io)  provides PDF Generation API and Image Generation API for developers. Create documents and visuals from reusable templates using HTML, CSS, and JSON. Great for automating invoices, reports, certificates, labels, and branded images at scale. It works with REST API, Zapier, Make, n8n, Bubble, Airtable, and other no-code or low-code tools.
+[APITemplate.io](https://apitemplate.io) provides PDF & Image Generation API for developers. Create documents and visuals from reusable templates using HTML, CSS, and JSON. Great for automating invoices, reports, certificates, labels, and branded images at scale. It works with REST API, Zapier, Make, n8n, Bubble, Airtable, and other no-code or low-code tools.
 
 📫 Email us at hello@apitemplate.io
 
